@@ -1,3 +1,5 @@
+migrated: https://gitlab.com/l1905/maven-business/lookio-legacy/ws
+
 [![Build Status](https://secure.travis-ci.org/einaros/ws.png)](http://travis-ci.org/einaros/ws)
 
 # ws: a node.js websocket library #
